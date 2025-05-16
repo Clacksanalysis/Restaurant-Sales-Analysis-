@@ -51,7 +51,7 @@ To visualize and analyze restaurant sales data to uncover trends in revenue, cus
 3. Hover over charts and KPIs to explore details interactively
 
 ## 🖼️ Dashboard 
-![Resturant Dashboard Image ](https://github.com/user-attachments/assets/aa55e3ca-822b-4fae-93c4-99d1ec3d1bfb)
+![Resturant Dashboard]([https://github.com/user-attachments/assets/aa55e3ca-822b-4fae-93c4-99d1ec3d1bfb](https://github.com/Clacksanalysis/Restaurant-Sales-Analysis-/blob/053706840a419434bf427f9280f13db04f39f6e3/resturant%20Dashboard.pdf))
 
 ## ✅ Recommendations Based on Findings
 
